@@ -1,0 +1,111 @@
++ echo '=== deep_child on tinystories ==='
+=== deep_child on tinystories ===
++ python3 evaluate.py --checkpoint checkpoints/deep_child.pt --stage tinystories --config deep --tokenizer bpe --vocab bpe_vocab.json --decay 0.02
+checkpoint: checkpoints/deep_child.pt
+stage: tinystories  avg loss (50 batches): 3.6833
+
+Memory test (manual, read this in an interview):
+  Short gap: 'Sam has a cat. Sam likes the cat.'
+  Long gap:  'Sam has a cat. ' + 40 filler words + ' Sam likes the cat.'
+  Compare the loss on the final 'cat' word for each gap.
+  A forgetting model should do worse on the long gap — that is expected.
++ echo '=== deep_child_base on tinystories (decay 0) ==='
+=== deep_child_base on tinystories (decay 0) ===
++ python3 evaluate.py --checkpoint checkpoints/deep_child_base.pt --stage tinystories --config deep --tokenizer bpe --vocab bpe_vocab.json --decay 0.0
+checkpoint: checkpoints/deep_child_base.pt
+stage: tinystories  avg loss (50 batches): 3.6518
+
+Memory test (manual, read this in an interview):
+  Short gap: 'Sam has a cat. Sam likes the cat.'
+  Long gap:  'Sam has a cat. ' + 40 filler words + ' Sam likes the cat.'
+  Compare the loss on the final 'cat' word for each gap.
+  A forgetting model should do worse on the long gap — that is expected.
++ echo '=== deep_teen on adolescence ==='
+=== deep_teen on adolescence ===
++ python3 evaluate.py --checkpoint checkpoints/deep_teen.pt --stage adolescence --config deep --tokenizer bpe --vocab bpe_vocab.json --decay 0.02
+checkpoint: checkpoints/deep_teen.pt
+stage: adolescence  avg loss (50 batches): 0.0637
+
+Memory test (manual, read this in an interview):
+  Short gap: 'Sam has a cat. Sam likes the cat.'
+  Long gap:  'Sam has a cat. ' + 40 filler words + ' Sam likes the cat.'
+  Compare the loss on the final 'cat' word for each gap.
+  A forgetting model should do worse on the long gap — that is expected.
++ echo '=== deep_teen on tinystories (forgetting test) ==='
+=== deep_teen on tinystories (forgetting test) ===
++ python3 evaluate.py --checkpoint checkpoints/deep_teen.pt --stage tinystories --config deep --tokenizer bpe --vocab bpe_vocab.json --decay 0.02
+checkpoint: checkpoints/deep_teen.pt
+stage: tinystories  avg loss (50 batches): 6.3255
+
+Memory test (manual, read this in an interview):
+  Short gap: 'Sam has a cat. Sam likes the cat.'
+  Long gap:  'Sam has a cat. ' + 40 filler words + ' Sam likes the cat.'
+  Compare the loss on the final 'cat' word for each gap.
+  A forgetting model should do worse on the long gap — that is expected.
++ echo '=== deep_adult_code on field_code ==='
+=== deep_adult_code on field_code ===
++ python3 evaluate.py --checkpoint checkpoints/deep_adult_code.pt --stage field_code --config deep --tokenizer bpe --vocab bpe_vocab.json --decay 0.02
+checkpoint: checkpoints/deep_adult_code.pt
+stage: field_code  avg loss (50 batches): 0.0169
+
+Memory test (manual, read this in an interview):
+  Short gap: 'Sam has a cat. Sam likes the cat.'
+  Long gap:  'Sam has a cat. ' + 40 filler words + ' Sam likes the cat.'
+  Compare the loss on the final 'cat' word for each gap.
+  A forgetting model should do worse on the long gap — that is expected.
++ echo '=== deep_adult_science on field_science ==='
+=== deep_adult_science on field_science ===
++ python3 evaluate.py --checkpoint checkpoints/deep_adult_science.pt --stage field_science --config deep --tokenizer bpe --vocab bpe_vocab.json --decay 0.02
+checkpoint: checkpoints/deep_adult_science.pt
+stage: field_science  avg loss (50 batches): 0.0625
+
+Memory test (manual, read this in an interview):
+  Short gap: 'Sam has a cat. Sam likes the cat.'
+  Long gap:  'Sam has a cat. ' + 40 filler words + ' Sam likes the cat.'
+  Compare the loss on the final 'cat' word for each gap.
+  A forgetting model should do worse on the long gap — that is expected.
++ echo '=== deep_adult_stories on field_stories ==='
+=== deep_adult_stories on field_stories ===
++ python3 evaluate.py --checkpoint checkpoints/deep_adult_stories.pt --stage field_stories --config deep --tokenizer bpe --vocab bpe_vocab.json --decay 0.02
+=== deep_adult_stories on field_stories ===
+Traceback (most recent call last):
+  File "/home/hatch/workspace/tinymind/evaluate.py", line 15, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+=== deep_adult_science on tinystories (forgetting test) ===
+Traceback (most recent call last):
+  File "/home/hatch/workspace/tinymind/evaluate.py", line 15, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+=== deep_adult_code on tinystories (forgetting test) ===
+Traceback (most recent call last):
+  File "/home/hatch/workspace/tinymind/evaluate.py", line 15, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+=== GENERATIONS ===
+-- deep_child: Sam has a
+Traceback (most recent call last):
+  File "/home/hatch/workspace/tinymind/generate.py", line 11, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+-- deep_teen: When Sam went to the
+Traceback (most recent call last):
+  File "/home/hatch/workspace/tinymind/generate.py", line 11, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+-- deep_adult_science: The moon is
+Traceback (most recent call last):
+  File "/home/hatch/workspace/tinymind/generate.py", line 11, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+-- deep_adult_code: def add
+Traceback (most recent call last):
+  File "/home/hatch/workspace/tinymind/generate.py", line 11, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+-- deep_adult_stories: One quiet night,
+Traceback (most recent call last):
+  File "/home/hatch/workspace/tinymind/generate.py", line 11, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+=== DEEP EVALUATION PART 2 DONE ===
