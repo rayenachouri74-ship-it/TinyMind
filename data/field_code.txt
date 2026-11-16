@@ -1,0 +1,600 @@
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def greet(name):     return 'hello ' + name
+def is_even(n):     return n % 2 == 0
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def is_even(n):     return n % 2 == 0
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+def add(a, b):     return a + b
+def greet(name):     return 'hello ' + name
+def add(a, b):     return a + b
+def add(a, b):     return a + b
+for i in range(5):     print(i)
+for i in range(5):     print(i)
+for i in range(5):     print(i)
