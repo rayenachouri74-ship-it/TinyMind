@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+checkpoints/
+results/*.csv
+*.pt
+data/*.txt
+!data/.gitkeep
+vocab.json
+bpe_vocab.json
+.venv/
+venv/
+.DS_Store
