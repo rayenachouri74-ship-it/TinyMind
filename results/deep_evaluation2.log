@@ -1,0 +1,48 @@
+=== deep_adult_stories on field_stories ===
+checkpoint: checkpoints/deep_adult_stories.pt
+stage: field_stories  avg loss (50 batches): 0.0561
+
+Memory test (manual, read this in an interview):
+  Short gap: 'Sam has a cat. Sam likes the cat.'
+  Long gap:  'Sam has a cat. ' + 40 filler words + ' Sam likes the cat.'
+  Compare the loss on the final 'cat' word for each gap.
+  A forgetting model should do worse on the long gap — that is expected.
+=== deep_adult_science on tinystories (forgetting test) ===
+checkpoint: checkpoints/deep_adult_science.pt
+stage: tinystories  avg loss (50 batches): 7.0287
+
+Memory test (manual, read this in an interview):
+  Short gap: 'Sam has a cat. Sam likes the cat.'
+  Long gap:  'Sam has a cat. ' + 40 filler words + ' Sam likes the cat.'
+  Compare the loss on the final 'cat' word for each gap.
+  A forgetting model should do worse on the long gap — that is expected.
+=== deep_adult_code on tinystories (forgetting test) ===
+checkpoint: checkpoints/deep_adult_code.pt
+stage: tinystories  avg loss (50 batches): 6.8930
+
+Memory test (manual, read this in an interview):
+  Short gap: 'Sam has a cat. Sam likes the cat.'
+  Long gap:  'Sam has a cat. ' + 40 filler words + ' Sam likes the cat.'
+  Compare the loss on the final 'cat' word for each gap.
+  A forgetting model should do worse on the long gap — that is expected.
+=== deep_adult_stories on tinystories (forgetting test) ===
+checkpoint: checkpoints/deep_adult_stories.pt
+stage: tinystories  avg loss (50 batches): 6.3726
+
+Memory test (manual, read this in an interview):
+  Short gap: 'Sam has a cat. Sam likes the cat.'
+  Long gap:  'Sam has a cat. ' + 40 filler words + ' Sam likes the cat.'
+  Compare the loss on the final 'cat' word for each gap.
+  A forgetting model should do worse on the long gap — that is expected.
+=== GENERATIONS ===
+-- deep_child: Sam has a
+sam has a cootetee and fish and a night the dan leant seek it was a bird and jourwket
+-- deep_teen: When Sam went to the
+when sam went to the park the bird followed because it wanted to play although it was late and the sky was
+-- deep_adult_science: The moon is
+the moon is es around the earth once every month it does need play alled thinschool
+-- deep_adult_code: def add
+def add a b return a b
+-- deep_adult_stories: One quiet night,
+one quiet night leo heard a strange sound in the forest it was not a bird and it was not
+=== DEEP EVALUATION PART 3 DONE ===
