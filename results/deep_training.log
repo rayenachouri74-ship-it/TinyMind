@@ -1,0 +1,31 @@
++ echo '=== DEEP CHILDHOOD ==='
+=== DEEP CHILDHOOD ===
++ python3 train.py --stage tinystories --config deep --tokenizer bpe --vocab bpe_vocab.json --epochs 2 --steps_per_epoch 150 --batch_size 16 --decay 0.02 --out checkpoints/deep_child.pt
+device: cpu, stage: tinystories, decay: 0.02
+training texts: 5000
+config: deep (layers=6, dim=256, heads=8, context=128)
+epoch 1/2  avg loss: 4.9378
+epoch 2/2  avg loss: 3.8729
+saved: checkpoints/deep_child.pt
++ echo '=== DEEP ADOLESCENCE ==='
+=== DEEP ADOLESCENCE ===
++ python3 train.py --stage adolescence --config deep --tokenizer bpe --vocab bpe_vocab.json --init checkpoints/deep_child.pt --epochs 2 --steps_per_epoch 150 --batch_size 16 --decay 0.02 --out checkpoints/deep_teen.pt
+device: cpu, stage: adolescence, decay: 0.02
+training texts: 1500
+config: deep (layers=6, dim=256, heads=8, context=128)
+loaded init checkpoint: checkpoints/deep_child.pt
+epoch 1/2  avg loss: 0.2451
+epoch 2/2  avg loss: 0.0664
+saved: checkpoints/deep_teen.pt
++ echo '=== DEEP BASE ==='
+=== DEEP BASE ===
++ python3 train.py --stage tinystories --config deep --tokenizer bpe --vocab bpe_vocab.json --epochs 2 --steps_per_epoch 150 --batch_size 16 --decay 0.0 --out checkpoints/deep_child_base.pt
+device: cpu, stage: tinystories, decay: 0.0
+training texts: 5000
+config: deep (layers=6, dim=256, heads=8, context=128)
+epoch 1/2  avg loss: 4.7343
+epoch 2/2  avg loss: 3.7973
+saved: checkpoints/deep_child_base.pt
++ echo '=== DEEP SPECIALIZATION ==='
+=== DEEP SPECIALIZATION ===
++ python3 specialize.py --field code --base checkpoints/deep_teen.pt --config deep --tokenizer bpe --vocab bpe_vocab.json --epochs 1 --steps_per_epoch 100 --out checkpoints/deep_adult_code.pt
